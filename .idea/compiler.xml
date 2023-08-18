@@ -9,5 +9,8 @@
         <module name="Encounter-DX" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
